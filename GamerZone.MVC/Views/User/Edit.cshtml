@@ -1,0 +1,33 @@
+﻿@model ProfileFormViewModel
+@{
+    ViewData["Title"] = "Edit profile";
+}
+<h2>Update user profile</h2>
+<hr />
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id"/>
+    <div class="form-floating mb-3">
+        <input asp-for="FirstName" class="form-control"/>
+        <label asp-for="FirstName">First Name</label>
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+     <div class="form-floating mb-3">
+        <input asp-for="LastName" class="form-control"/>
+        <label asp-for="LastName">Last Name</label>
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+    <div class="form-floating mb-3">
+        <input asp-for="UserName" class="form-control" />
+        <label asp-for="UserName">Username</label>
+        <span asp-validation-for="UserName" class="text-danger"></span>
+    </div>
+    <div class="form-floating mb-3">
+        <input asp-for="Email" class="form-control" />
+        <label asp-for="Email">Email</label>
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary btn-lg d-block">Save</button>
+</form>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}

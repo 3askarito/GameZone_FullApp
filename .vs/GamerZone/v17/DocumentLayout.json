@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\gamerzone\\gamerzone.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|solutionrelative:gamerzone.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "GamerZone.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\appsettings.json",
+              "RelativeToolTip": "GamerZone.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T19:15:37.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
