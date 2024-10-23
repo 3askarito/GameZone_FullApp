@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\gamerzone\\gamerzone.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|solutionrelative:gamerzone.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\gamerzone\\gamerzone.mvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|solutionrelative:gamerzone.mvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\gamerzone\\gamerzone.mvc\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|solutionrelative:gamerzone.mvc\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\gamerzone\\gamerzone.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|solutionrelative:gamerzone.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\gamerzone\\gamerzone.mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|solutionrelative:gamerzone.mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\gamerzone\\gamerzone.mvc\\views\\shared\\_userpager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|solutionrelative:gamerzone.mvc\\views\\shared\\_userpager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\gamerzone\\gamerzone.mvc\\views\\shared\\_pager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|solutionrelative:gamerzone.mvc\\views\\shared\\_pager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\gamerzone\\gamerzone.mvc\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|solutionrelative:gamerzone.mvc\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\gamerzone\\gamerzone.mvc\\views\\games\\managegames.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|solutionrelative:gamerzone.mvc\\views\\games\\managegames.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\gamerzone\\gamerzone.mvc\\services\\gameservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|solutionrelative:gamerzone.mvc\\services\\gameservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\gamerzone\\gamerzone.mvc\\models\\pager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C34C0D7-103B-4D71-A008-77CBA56E3749}|GamerZone.MVC\\GamerZone.MVC.csproj|solutionrelative:gamerzone.mvc\\models\\pager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\appsettings.json",
-              "RelativeDocumentMoniker": "GamerZone.MVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\appsettings.json",
-              "RelativeToolTip": "GamerZone.MVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T19:15:37.018Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
@@ -36,6 +59,136 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Views\\Games\\Index.cshtml",
+              "RelativeDocumentMoniker": "GamerZone.MVC\\Views\\Games\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Views\\Games\\Index.cshtml",
+              "RelativeToolTip": "GamerZone.MVC\\Views\\Games\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T06:39:25.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Userpager.cshtml",
+              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Views\\Shared\\_Userpager.cshtml",
+              "RelativeDocumentMoniker": "GamerZone.MVC\\Views\\Shared\\_Userpager.cshtml",
+              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Views\\Shared\\_Userpager.cshtml",
+              "RelativeToolTip": "GamerZone.MVC\\Views\\Shared\\_Userpager.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T06:36:10.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "GamerZone.MVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "GamerZone.MVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-23T06:15:58.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "GamerZone.MVC\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "GamerZone.MVC\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T06:14:23.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "GamerZone.MVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "GamerZone.MVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:12:52.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Pager.cshtml",
+              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Views\\Shared\\_Pager.cshtml",
+              "RelativeDocumentMoniker": "GamerZone.MVC\\Views\\Shared\\_Pager.cshtml",
+              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Views\\Shared\\_Pager.cshtml",
+              "RelativeToolTip": "GamerZone.MVC\\Views\\Shared\\_Pager.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T06:09:18.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageGames.cshtml",
+              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Views\\Games\\ManageGames.cshtml",
+              "RelativeDocumentMoniker": "GamerZone.MVC\\Views\\Games\\ManageGames.cshtml",
+              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Views\\Games\\ManageGames.cshtml",
+              "RelativeToolTip": "GamerZone.MVC\\Views\\Games\\ManageGames.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T05:05:20.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pager.cs",
+              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Models\\Pager.cs",
+              "RelativeDocumentMoniker": "GamerZone.MVC\\Models\\Pager.cs",
+              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Models\\Pager.cs",
+              "RelativeToolTip": "GamerZone.MVC\\Models\\Pager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA5wCYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:39:49.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameServices.cs",
+              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Services\\GameServices.cs",
+              "RelativeDocumentMoniker": "GamerZone.MVC\\Services\\GameServices.cs",
+              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Services\\GameServices.cs",
+              "RelativeToolTip": "GamerZone.MVC\\Services\\GameServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:15:47.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "GamerZone.MVC\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\GamerZone\\GamerZone.MVC\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "GamerZone.MVC\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:13:58.884Z",
+              "EditorCaption": ""
             }
           ]
         }

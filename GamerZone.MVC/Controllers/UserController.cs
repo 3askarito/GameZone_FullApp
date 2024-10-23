@@ -10,7 +10,7 @@ namespace GamerZone.MVC.Controllers
     [Authorize(Roles ="Admin")]
     public class UserController(UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager) : Controller
     {
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int pg = 1)
         {
 
             //var users = await userManager.Users.Select(u => new UserViewModel {
@@ -22,8 +22,11 @@ namespace GamerZone.MVC.Controllers
             //    Roles = userManager.GetRolesAsync(u).Result
             //}).ToListAsync();
             //return View(users);
+            const int PageSize = 5;
+            if (pg < 1)
+                pg = 1;
             var users = await userManager.Users.ToListAsync();
-            var viewModels = new List<UserViewModel>();
+            var usersList = new List<UserViewModel>();
             foreach(var user in users)
             {
                 var viewModel = new UserViewModel
@@ -35,8 +38,11 @@ namespace GamerZone.MVC.Controllers
                     Email = user.Email,
                     Roles = userManager.GetRolesAsync(user).Result
                 };
-                viewModels.Add(viewModel);
+                usersList.Add(viewModel);
             }
+            Pager pager = new(usersList.Count(), pg, PageSize);
+            var viewModels = usersList.Skip((pg - 1) * PageSize).Take(PageSize).ToList();
+            this.ViewBag.Pager = pager;
             return View(viewModels);
         }
         public async Task<IActionResult> ManageRoles(string userId)

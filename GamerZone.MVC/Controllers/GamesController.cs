@@ -30,13 +30,20 @@ namespace GamerZone.MVC.Controllers
             return View(game);
         }
         [HttpGet]
-        public IActionResult ManageGames()
+        public IActionResult ManageGames(int pg = 1)
         {
+            const int PageSize = 5;
+            if (pg < 1)
+                pg = 1;
             var userID = userManager.GetUserId(User);
             if (userID == null)
                 return NotFound();
-            var Usergamesgames = gameServiecs.GetAll(userID);
-            return View(Usergamesgames);
+            var Usergames = gameServiecs.GetAll(userID);
+            var recsCount = Usergames.Count();
+            Pager pager = new(recsCount, pg, PageSize);
+            var viewModel = Usergames.Skip((pg - 1) * PageSize).Take(PageSize).ToList();
+            this.ViewBag.Pager = pager;
+            return View(viewModel);
 
         }
         [HttpGet]

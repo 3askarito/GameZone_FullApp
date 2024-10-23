@@ -1,6 +1,13 @@
 ﻿@model List<GameViewModel>
 @{
     ViewData["Title"] = $"Games";
+    Pager pager = new();
+    var PageNo = 0;
+    if(ViewBag.Pager != null)
+    {
+        pager = ViewBag.Pager;
+        PageNo = pager.CurrentPage;
+    }
 }
 <h2>Games</h2>
 @if (!Model.Any())
@@ -44,6 +51,7 @@ else
                 }
             </tbody>
         </table>
+       <partial name="_pager" model="@pager"/>
     </div>
 }
 @section Scripts{
