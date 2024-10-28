@@ -26,6 +26,24 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options => options.S
     .AddDefaultUI()
     .AddDefaultTokenProviders();
 builder.Services.Configure<AdminCradentials>(builder.Configuration.GetSection("AdminCradentials"));
+
+builder.Services.AddAuthentication()
+    .AddGoogle(options =>
+{
+    IConfiguration googleAuthetication = builder.Configuration.GetSection("Authentication:Google");
+    options.ClientId = googleAuthetication["ClientId"];
+    options.ClientSecret = googleAuthetication["ClientSecret"];
+
+}).AddFacebook(options => {
+    IConfiguration facebookAuthetication = builder.Configuration.GetSection("Authentication:Facebook");
+    options.AppId = facebookAuthetication["AppId"];
+    options.AppSecret = facebookAuthetication["AppSecret"];
+}).AddMicrosoftAccount(options =>
+{
+    options.ClientId = builder.Configuration["Authentication:Microsoft:ClientId"];
+    options.ClientSecret = builder.Configuration["Authentication:Microsoft:ClientSecret"];
+});
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

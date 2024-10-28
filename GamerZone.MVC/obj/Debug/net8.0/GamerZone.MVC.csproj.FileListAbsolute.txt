@@ -292,3 +292,5 @@ C:\Users\BioTech\OneDrive\Desktop\ASP.Net Core\GamerZone\GamerZone.MVC\bin\Debug
 C:\Users\BioTech\OneDrive\Desktop\ASP.Net Core\GamerZone\GamerZone.MVC\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\BioTech\OneDrive\Desktop\ASP.Net Core\GamerZone\GamerZone.MVC\bin\Debug\net8.0\libman.json
 C:\Users\BioTech\OneDrive\Desktop\ASP.Net Core\GamerZone\GamerZone.MVC\obj\Debug\net8.0\GamerZone.MVC.sourcelink.json
+C:\Users\BioTech\OneDrive\Desktop\ASP.Net Core\GamerZone\GamerZone.MVC\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\BioTech\OneDrive\Desktop\ASP.Net Core\GamerZone\GamerZone.MVC\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll
